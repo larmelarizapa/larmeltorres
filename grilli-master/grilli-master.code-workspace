@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "E:/grilli-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "grilli-master"
+	}
+}
